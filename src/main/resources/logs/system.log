@@ -1,0 +1,30 @@
+[21:34:07][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[21:34:09][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1244 ms
+[21:34:09][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[21:34:10][INFO ][FrameworkServlet.java:547] - Completed initialization in 1215 ms
+[21:52:24][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[21:52:25][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1136 ms
+[21:52:25][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[21:52:26][INFO ][FrameworkServlet.java:547] - Completed initialization in 1088 ms
+[21:53:07][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[21:53:08][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1140 ms
+[21:53:08][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[21:53:09][INFO ][FrameworkServlet.java:547] - Completed initialization in 1088 ms
+[21:53:21][INFO ][MemberController.java:96] - login.do : Member [userid=user01, userpwd=1111, username=null, gender=null, age=0, phone=null, email=null, hobby=null, etc=null, enroll_date=null, lastmodified=null, login_ok=null, admin=null]
+[21:53:35][INFO ][CalendarController.java:42] - 달력보기ko.
+[21:53:39][INFO ][CalendarController.java:42] - 달력보기ko.
+[21:53:41][INFO ][CalendarController.java:247] - 갯수보여주기 ko.
+[21:53:41][INFO ][CalendarController.java:247] - 갯수보여주기 ko.
+[21:53:41][INFO ][CalendarController.java:247] - 갯수보여주기 ko.
+[21:53:41][INFO ][CalendarController.java:247] - 갯수보여주기 ko.
+[21:53:41][INFO ][CalendarController.java:247] - 갯수보여주기 ko.
+[21:53:41][INFO ][CalendarController.java:247] - 갯수보여주기 ko.
+[21:53:41][INFO ][CalendarController.java:247] - 갯수보여주기 ko.
+[21:53:41][INFO ][CalendarController.java:247] - 갯수보여주기 ko.
+[21:53:41][INFO ][CalendarController.java:247] - 갯수보여주기 ko.
+[21:53:42][INFO ][CalendarController.java:247] - 갯수보여주기 ko.
+[21:53:42][INFO ][CalendarController.java:117] - 목록보기ko.
+[21:53:44][INFO ][CalendarController.java:247] - 갯수보여주기 ko.
+[21:53:45][INFO ][CalendarController.java:247] - 갯수보여주기 ko.
+[21:53:46][INFO ][CalendarController.java:247] - 갯수보여주기 ko.
+[21:53:47][INFO ][CalendarController.java:117] - 목록보기ko.
